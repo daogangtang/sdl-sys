@@ -1,0 +1,11 @@
+[package]
+name = "sdl-sys"
+version = "0.1.0"
+authors = ["Daogang Tang <daogangtang@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+#libc = "0.1"
+
+[dev-dependencies]
+#rand="*"
